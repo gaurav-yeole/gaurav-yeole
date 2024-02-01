@@ -1,3 +1,4 @@
+[![MasterHead](https://www.globalonlinepublishing.com/wp-content/uploads/2019/03/web-dev-Banner-008.jpg)](https://gauravyeole.io)
 <h1 align="center">Hi 👋, I'm Gaurav Yeole</h1>
 <h3 align="center">A Passionate Full-Stack Developer From India</h3>
 
